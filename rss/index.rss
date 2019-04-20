@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Arabicly Blog</title><description>Comprehensive Online Arabic Education</description><link>http://localhost:2368/</link><image><url>http://localhost:2368/favicon.png</url><title>Arabicly Blog</title><link>http://localhost:2368/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Wed, 17 Apr 2019 15:36:52 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Arabic Worksheets: Letter Forms</title><description>&lt;div class="kg-card-markdown"&gt;&lt;p&gt;Salaam! Arabic letters have muliple forms such as isolated, initial, medial, and final forms. Here are the links to worksheets so you cn practice arabic letter forms.&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Arabicly Blog</title><description>Comprehensive Online Arabic Education</description><link>http://localhost:2368/</link><image><url>http://localhost:2368/favicon.png</url><title>Arabicly Blog</title><link>http://localhost:2368/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Sat, 20 Apr 2019 07:12:36 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Arabic Worksheets: Letter Forms</title><description>&lt;div class="kg-card-markdown"&gt;&lt;p&gt;Salaam! Arabic letters have muliple forms such as isolated, initial, medial, and final forms. Here are the links to worksheets so you cn practice arabic letter forms.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="https://drive.google.com/open?id=1HhwdiGVlvoT7Yy0ApsL2V_rZebB0JaOj"&gt;Alif - أ ، ـا&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://drive.google.com/open?id=1rzKq0jHEorCfTwE243QD74zIgDc30OJX"&gt;Ba - ب ، بـ ، ـبـ ، ـب&lt;/a&gt;&lt;/li&gt;
@@ -134,9 +134,15 @@
 &lt;h1 id="classroomdashboard"&gt;Classroom Dashboard&lt;/h1&gt;
 &lt;p&gt;Want to see how your classroom is doing? View all the important metrics from your classroom dashboard.&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://localhost:2368/content/images/2018/11/New_Classroom_Dashboard.jpeg" alt="Arabicly For Teachers"&gt;&lt;/p&gt;
+&lt;h1 id="classroomgrades"&gt;Classroom Grades&lt;/h1&gt;
+&lt;p&gt;View all the grades throughout the semester&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2019/04/Screen-Shot-2019-04-20-at-1.07.21-AM.png" alt="Arabicly For Teachers"&gt;&lt;/p&gt;
 &lt;h1 id="assignhomework"&gt;Assign Homework&lt;/h1&gt;
 &lt;p&gt;All students love homework, why don't we assign them some.&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://localhost:2368/content/images/2018/11/Demo_Assign_Homework_v2.gif" alt="Arabicly For Teachers"&gt;&lt;/p&gt;
+&lt;h1 id="assignmenthistory"&gt;Assignment History&lt;/h1&gt;
+&lt;p&gt;Review previous homework assignments before to keep your students moving forward.&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2019/04/Screen-Shot-2019-04-20-at-1.08.31-AM.png" alt="Arabicly For Teachers"&gt;&lt;/p&gt;
 &lt;h1 id="sendparentshomeworkreminders"&gt;Send Parents Homework Reminders&lt;/h1&gt;
 &lt;p&gt;Life’s hectic, we all need a little reminder to complete our assignments.&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://localhost:2368/content/images/2018/11/Demo_Send_Emails_v2.gif" alt="Arabicly For Teachers"&gt;&lt;/p&gt;
